@@ -1,5 +1,7 @@
 ### Hi, I'm Alper 👋
 
+I'm currently working on my GitHub Profile to introduce my passion. Still in Progress.
+
 <!--
 **chrepl/chrepl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
