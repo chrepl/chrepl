@@ -2,6 +2,8 @@
 
 I'm currently working on my GitHub Profile to introduce my passion. Still in Progress.
 
+[![](https://visitcount.itsvg.in/api?id=github-chrepl&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **chrepl/chrepl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
